@@ -1,2 +1,0 @@
-# Theme Manager
-allow system_server theme_data_file:file read;
